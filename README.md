@@ -11,20 +11,20 @@
 
 ### Welcome to my GitHub! :grin:
    
-#### Hello, my name is Beatriz, I'm a student of information systems in Cruzeiro do Sul University, currently i'm focused on developing my skills in programming. I am currently Studying Java and Python.
+#### Hello, my name is Beatriz, I'm a student of information systems in Cruzeiro do Sul University, currently i'm focused on developing my skills in programming. I am currently Studying Python and Java.
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthurNdev&theme=monokai)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arthurNdev&theme=monokai&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatrizAdev&theme=monokai)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=beatrizAdev&theme=monokai&utcOffset=-3)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=arthurNdev&theme=monokai&hide_border=false)|![arthurNdev's Stats](https://github-readme-stats.vercel.app/api?username=arthurNdev&theme=monokai&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=beatrizAdev&theme=monokai&hide_border=false)|![beatrizAdev's Stats](https://github-readme-stats.vercel.app/api?username=beatrizAdev&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arthurNdev&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arthurNdev&theme=monokai)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beatrizAdev&theme=monokai)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=beatrizAdev&theme=monokai)
 
 <h2><img src="https://media.giphy.com/media/mpM654sL8gJumwGmAn/giphy.gif" width="30px" height="30px"> Contacts:</h2>
 
